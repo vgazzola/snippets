@@ -1,0 +1,2 @@
+# snippets
+replacement for onenote
